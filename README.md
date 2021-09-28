@@ -1,0 +1,1 @@
+some fan with 7.8 exercise from [Go Programming Language book ](https://www.gopl.io/)
